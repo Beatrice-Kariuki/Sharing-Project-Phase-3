@@ -1,5 +1,4 @@
-[README (2).md](https://github.com/Beatrice-Kariuki/Sharing-Project-Phase-3/files/14251549/README.2.md)
-# Sharing-Project-Phase-3
+
 
 
 ![Logo](https://drive.google.com/file/d/10unqyvHoyUeygRzOr4HHuGwHlCVb8Y71/view?usp=sharing)
