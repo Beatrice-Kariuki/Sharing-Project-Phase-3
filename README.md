@@ -2,7 +2,7 @@
 
 
 
-![2024](https://github.com/Beatrice-Kariuki/Sharing-Project-Phase-3/assets/144832651/343f0846-6508-455b-8f56-2c473c6c88b4)
+![2024v1](https://github.com/Beatrice-Kariuki/Sharing-Project-Phase-3/assets/144832651/fe0a1157-c1b4-491d-9d91-773098dee14e)
 
 
 # Patient Treatment Classification
