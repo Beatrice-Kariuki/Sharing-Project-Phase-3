@@ -13,7 +13,7 @@ The project aims to leverage a comprehensive dataset containing various hematolo
 
 ## Documentation
 
-[Dataset fro Kaggle](https://www.kaggle.com/datasets/saurabhshahane/patient-treatment-classification)
+[Dataset from Kaggle](https://www.kaggle.com/datasets/saurabhshahane/patient-treatment-classification)
 
 
 ## Business Problem
