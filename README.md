@@ -88,6 +88,6 @@ The models used for the project:
   
 ## Authors
 - Rodgers Odhiambo
-- Mohamed Bashir
+- Mohamed Ali
 - David Kirianja
 - Beatrice Kariuki
