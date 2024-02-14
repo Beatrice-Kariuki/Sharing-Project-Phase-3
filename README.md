@@ -52,6 +52,7 @@ Through Sarah's journey in navigating patient care classifications, VitaHealth-2
 - SEX - Patient gender
 
 - SOURCE - the class target in care patient and out care patient.
+  
 ## Data Modelling
 
 The models used for the project:
@@ -69,16 +70,7 @@ The models used for the project:
 
    Therefore proceeded with random forest as our best model.Random Forest has the highest AUC score, indicating its effectiveness in distinguishing between positive and negative instances.
 
-## Conclusion
-
-- Leveraging the dataset obtained in research, this project developed a predictive model (with 75% accuracy) for the classification of patients based on haematological features.​
-
-- Furthermore, we we able to identify the need for an intermediate checkup station that would be used to provide additional specialized medical care for patients classified as needing overnight hospitalization.​
-
-- This would have the two-fold effect of providing extra medical attention to high-risk patients while accounting for any misclassification by the model.
-  
 ## Recommendations
-
 - Introduction of intermediate checkup station for all patients classified as inpatient(0) by the chosen model. This will allow for further evaluation by medical professionals who will ultimately determine whether overnight hospitalisation is required. This maintains the human touch in the process while accounting for the model's inaccuracy
 
 - Equip the suggested intermediate station with a mix general practitioners and lab specialists and equipment for efficient human resource alolocation.
@@ -86,9 +78,15 @@ The models used for the project:
 - Equip the intermediate station with state-of-the-art blood screening equipment. This will enable more fine-tuned diagnosis due to the increase of blood parameters tested for anomalies. Moreover, this will provide additional data that can be fed into he model to improve its performance over time.
 
 - When planning for the overall patient capacity as well as appropriate staffing of the medical facility, the assumption of a 40% admission rate can be used to distribute resources appropriately.
+   
+## Conclusion
+- Leveraging the dataset obtained in research, this project developed a predictive model (with 75% accuracy) for the classification of patients based on haematological features.​
 
+- Furthermore, we we able to identify the need for an intermediate checkup station that would be used to provide additional specialized medical care for patients classified as needing overnight hospitalization.​
+
+- This would have the two-fold effect of providing extra medical attention to high-risk patients while accounting for any misclassification by the model.
+  
 ## Authors
-
 - Rodgers Odhiambo
 - Mohamed Bashir
 - David Kirianja
