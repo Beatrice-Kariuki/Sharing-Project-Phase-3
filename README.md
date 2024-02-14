@@ -86,3 +86,10 @@ The models used for the project:
 - Equip the intermediate station with state-of-the-art blood screening equipment. This will enable more fine-tuned diagnosis due to the increase of blood parameters tested for anomalies. Moreover, this will provide additional data that can be fed into he model to improve its performance over time.
 
 - When planning for the overall patient capacity as well as appropriate staffing of the medical facility, the assumption of a 40% admission rate can be used to distribute resources appropriately.
+
+## Authors
+
+- Rodgers Odhiambo
+- Mohamed Bashir
+- David Kirianja
+- Beatrice Kariuki
